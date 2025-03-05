@@ -4,8 +4,8 @@
 
 lfi download lfi files and convert to json
 
-    https://github.com/emadshanab/LFI-Payload-List
-    https://raw.githubusercontent.com/emadshanab/LFI-Payload-List/master/LFI%20payloads.txt
+    https://github.com/JamesKurayami/LFI-Payload-List
+    https://raw.githubusercontent.com/JamesKurayami/LFI-Payload-List/master/LFI%20payloads.txt
 ---
 
 ## **Features**
@@ -24,7 +24,7 @@ lfi download lfi files and convert to json
 To get started with LfiDump, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/HackfutSec/LfiDump.git
+git clone https://github.com/JamesKurayami/LfiDump.git
 cd LfiDump
 ```
 
