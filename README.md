@@ -155,7 +155,7 @@ We welcome contributions to **LfiDump**. If you find any bugs or have suggestion
 
 For any questions or assistance, feel free to reach out to us:
 
-- **Telegram**: [@HackfutSec](https://t.me/D4RKD3MON)
+- **Telegram**: [@D4RKD3MON](https://t.me/D4RKD3MON)
 - **GitHub**: [https://github.com/JamesKurayami/LfiDump](https://github.com/JamesKurayami/LfiDump)
 
 ---
